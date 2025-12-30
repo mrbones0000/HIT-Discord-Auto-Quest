@@ -45,13 +45,13 @@ Discord PTB o Canary recomendado
 
 El bot comenzará a completar automáticamente las misiones disponibles en Discord y los juegos integrados.
 
-Advertencia Legal
+**Advertencia Legal**
 
 Este proyecto no está afiliado ni aprobado por Discord Inc.
 El uso de selfbots puede provocar la suspensión permanente de tu cuenta.
 Úsalo bajo tu propia responsabilidad.
 
-Licencia
+**Licencia**
 
 Proyecto distribuido únicamente con fines educativos y de aprendizaje.
 No se permite su uso comercial ni con fines maliciosos.
